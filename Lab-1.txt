@@ -1,2 +1,1 @@
-This is our first branch for the lab 1.
-This is the first part of development.
+This is this the second change of Development.
