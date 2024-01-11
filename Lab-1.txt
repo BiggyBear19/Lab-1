@@ -1,1 +1,2 @@
 This is our first branch for the lab 1.
+This is the first part of development.
