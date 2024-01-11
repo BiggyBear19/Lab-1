@@ -1,2 +1,2 @@
-This is our first branch for the lab 1.
-Here is a hotfix.
+This is the the 1.0 patch
+
